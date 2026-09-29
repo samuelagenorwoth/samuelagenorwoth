@@ -6,4 +6,5 @@ I'm a doctoral researcher in Computational Engineering (Applied Mathematics) at 
 
 **Tools:** Python, PyTorch, FEniCS, MATLAB, Fortran, COMSOL
 
-This profile is growing: I'm publishing code from my Master's projects in Italy and Sweden, starting with a Monte Carlo simulation of the 2D Ising model.
+**Selected projects**
+- [2D Ising model](https://github.com/samuelagenorwoth/ising-model-2d): Monte Carlo simulation in MATLAB, validated against the exact solution of Onsager and Yang
