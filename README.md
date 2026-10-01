@@ -1,6 +1,6 @@
 ### Hi, I'm Samuel 👋
 
-I'm a doctoral researcher in Computational Engineering (Applied Mathematics) at LUT University, Finland. I study inverse problems for waves: recovering what's inside a pipe from how waves travel through it, and quantifying how confident we can be in the result. I also work on Bayesian retrieval of aerosol properties at the Atmospheric Modelling Centre (AMC-Lahti).
+I'm a doctoral researcher in Computational Engineering (Applied Mathematics) at LUT University, Finland. I study inverse problems for waves: recovering what's inside a pipe from how waves travel through it, and quantifying how confident we can be in the result. 
 
 🌐 Website: [samuelagenorwoth.com](https://samuelagenorwoth.com)
 
